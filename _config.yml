@@ -1,12 +1,12 @@
-title: Papa Bondan
+title: 4ndrexyz
 markdown: kramdown
 url: ""
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Bondan Murdani Soleh
-  email: murdani.bondan.bm@gmail.com
+  name: Andre Kusuma Firmansah
+  email: andrekusuma388@gmail.com
 
 plugins:
   - jemoji
