@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<span style="display:block;text-align:center">![alt](https://i0.wp.com/bondan.my.id/wp-content/uploads/2021/08/Bondan-Murdani-Soleh.jpg)</span>
-Nama saya adalah Bondan, saya bekerja di PT Sygma Daya Insani Cabang Jawa Timur. Saya harus rajin belajar dan bekerja serta mencinta keluarga dengan ikhlas karena Allah **سُبْحَانَهُ وَ تَعَالَى‎**.
+<span style="display:block;text-align:center">![alt](https://i.postimg.cc/qqyscFdr/6506-Missing-Filename-File.jpg)</span>
+Perkenalkan nama Saya Andre, Saya adalah lulusan SMK Negeri 9 Semarang Jurusan Rekayasa Perangkat Lunak. Selama sekolah,
+Saya aktif dalam organisasi Majelis Perwakilan Kelas (MPK) dan Student Company di organisasi tersebut Saya menjabat sebagai
+ketua organisasi.
 
-Saya juga mempunyai blog utama yaitu di [Bondan Blog atau bondan.my.id](https://bondan.my.id), dan juga di [Pena Buku](https://penabuku.com) serta di [bondanfamily](https://bondanfamily.blogspot.com). Tapi lebih aktif di Bondan Blog, karena biayanya mahal.
-
-Blog ini adalah sarana saya belajar juga untuk membuat blog dengan jekyll. Pembaca dapat download temanya di halaman github saya.
+Saya memiliki keahlian dalam bidang <i>grapic design</i>, dengan menguasai berbagai software seperti Adobe Illustrator, Figma, Adobe Photoshop. Berpengalaman dalam pembuatan guidelines, mock-up, visual untuk sosial media, web, dan aset lain untuk kebutuhan pemasaran.
