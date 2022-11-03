@@ -5,7 +5,7 @@ title: Kontak
 
 ## Email
 
-- Email: [andrekusuma388@gmail.com](mailto:andrekusuma88@gmail.com)
+Email: [andrekusuma388@gmail.com](mailto:andrekusuma88@gmail.com)
 
 ## Alamat
 
@@ -17,6 +17,7 @@ title: Kontak
 
 ## Social & Portofolio
 
+[Github](https://github.com/4ndrexyz)
 [Facebook](https://facebook.com/andrefirmansahh)
 [Instagram](https://www.instagram.com/4ndrexyz_/)
 [Dribbble](https://dribbble.com/designandrefirmansah)
