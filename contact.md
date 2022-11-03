@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Contact
+title: Kontak
 ---
 
 ## Email
 
-- Email: [Andre Kusuma Firmansah](mailto:andrekusuma88@gmail.com)
+- Email: [andrekusuma388@gmail.com](mailto:andrekusuma88@gmail.com)
 
-## Mailing Address
+## Alamat
 
 > Jl. Gajah Barat IV
 >
@@ -15,7 +15,8 @@ title: Contact
 >
 > Indonesia
 
-## Social
+## Social Media & Portofolio
 
 [Facebook](https://facebook.com/andrefirmansahh)
 [Instagram](https://www.instagram.com/4ndrexyz_/)
+[Dribbble]()

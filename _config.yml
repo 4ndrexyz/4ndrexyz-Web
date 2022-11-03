@@ -15,16 +15,16 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-google-search-console-verification-file
-  
+
 paginate: 4
 paginate_path: "/page:num/"
 
-ganalytics: G-MHM0H992ND
+ganalytics: G-2XZRLPNSDB
 google_search_console:
-       verification_file_code: 54b942591f95001
-google_site_verification: MlRRgSGk4N__3IfNNOPBntHv5Go9dl7hOcreAKPQHlo
+  verification_file_code: 54b942591f95001
+google_site_verification: 3oKKw2iZEUNRxHCa9ii5MZf8I3Oz7sVsWOT8MupIdOE
+
 enable_google_verification: true
-  
 
 collections_dir: all_collections
 collections:

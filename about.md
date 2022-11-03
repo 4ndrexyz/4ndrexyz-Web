@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Tentang Saya
 ---
 
 <span style="display:block;text-align:center; width: 200px;">![url](img/profile.webp)</span>
