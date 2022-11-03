@@ -15,8 +15,9 @@ title: Kontak
 >
 > Indonesia
 
-## Social Media & Portofolio
+## Social & Portofolio
 
 [Facebook](https://facebook.com/andrefirmansahh)
 [Instagram](https://www.instagram.com/4ndrexyz_/)
-[Dribbble]()
+[Dribbble](https://dribbble.com/designandrefirmansah)
+[Behance](https://www.behance.net/andrefirmansah)
