@@ -56,6 +56,7 @@ main {
   border-radius: 50%;
   max-width: 100px;
 }
+
 #bio-wrapper {
   margin-left: 1rem;
 }
@@ -64,8 +65,13 @@ main {
   font-weight: 300;
 }
 #text-wrapper a {
-  color: cyan;
-  border-bottom: 1px solid cyan;
+  color:#a9abb3;
+  border-bottom: 1px solid #a9abb3;
+}
+
+#text-wrapper a:hover{
+  color: #fff;
+  border-bottom: 1px solid #fff;
 }
 
 
@@ -190,4 +196,6 @@ nav {
   .articles .article .article-title a {
     font-size: 1rem;
   }
+}
+
 }
