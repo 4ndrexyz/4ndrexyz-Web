@@ -7,7 +7,7 @@ categories: ["dev"]
 
 # Membuat WhatsApp Bot Dengan Mudah
 
-<img style="image-size:contain;" src="https://i.postimg.cc/ZKj9HfKk/wa-bot.jpg" alt="WA Bot">
+<img style="image-size:cover; border-radius: 2%" src="https://i.ibb.co/C68VJDZ/Hero-Banner.jpg" alt="WA Bot">
 
 Diera jaman sekarang kita sudah tidak asing lagi dengan yang namanya _Artificial intelligence_ (AI) atau Kecerdasan Buatan. Ada banyak sekali kelebihan yang dapat dilakukan oleh AI, diantaranya adalah membuat pekerjaan kita semakin efisien, hemat waktu, dan lain sebagainya. WhatsApp Bot merupakan salah satu contoh kecerdasan buatan, yang dimana kita dapat merespon pesan secara cepat _(Real-Time)_ tanpa kita harus mengetik.
 
