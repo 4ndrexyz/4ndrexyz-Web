@@ -29,7 +29,7 @@ Langkah awal yang harus kita lakukan adalah mendownload terlebih dulu asset atau
 
 Setelah file tadi terdownload, langkah selanjutnya adalah login ke akun [Github](https://github.com) kalian lalu upload file tadi ke _Repository_ kalian.
 
-![Github Repository Preview!](https://i.postimg.cc/tCGKyj3H/repository.jpg "Github Repository Preview")
+![Github Repository Preview!](https://i.postimg.cc/MK9NjR7d/Repositoryy.png "Github Repository Preview")
 
 Jika file tadi sudah terupload ke _Repsitory_ Github kalian, kita akan masuk ke langkah selanjutnya, yaitu Konfigurasi dan _Deployment_ menggunakan Heroku.
 
@@ -39,7 +39,7 @@ Okee, selanjutnya kita akan masuk ke bagian konfigurasi dan _Deployment_ ke webs
 
 Pertama-tama kunjungi website resmi Heroku terlebih dahulu yaitu [https://www.heroku.com/](https://www.heroku.com/) lalu masuk menggunakan email aktif kalian.
 
-![Heroku!](https://i.postimg.cc/Zntr9jHC/login.jpg "Heroku Web Preview")
+![Heroku!](https://i.postimg.cc/yNxRnDb1/login-heroku.png "Heroku Web Preview")
 
 Setelah kita berhasil masuk, kita akan diarahkan ke laman Dashboard Heroku, dan klik tombol **Create New App**, untuk membuat Aplikasi baru.
 
