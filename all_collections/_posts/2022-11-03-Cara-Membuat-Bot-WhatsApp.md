@@ -15,7 +15,7 @@ Kali ini saya akan share bagaimana cara membuat bot whatsapp menggunakan website
 
 ### Apa itu Heroku ?
 
-![Heroku Images!](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png "Heroku")
+![Heroku Images!](https://i.postimg.cc/pd2GdL7K/heroku.png "Heroku")
 
 Dikutip dari [Wikipedia](https://en.wikipedia.org/wiki/Heroku), **Heroku** adalah platform cloud sebagai layanan yang mendukung beberapa bahasa pemrograman. Salah satu platform cloud pertama, Heroku telah dikembangkan sejak Juni 2007, ketika hanya mendukung bahasa pemrograman Ruby, tetapi sekarang mendukung `Java, Node.js, Scala, Clojure, Python, PHP, dan Go.`
 
