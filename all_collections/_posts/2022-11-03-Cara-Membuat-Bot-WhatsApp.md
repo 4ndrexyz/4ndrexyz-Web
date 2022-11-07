@@ -23,19 +23,19 @@ Oleh karena itu kita akan menggunakan Heroku sebagai tempat hosting bot kita nan
 
 ## Download _Source Code_
 
-Langkah awal yang harus kita lakukan adalah mendownload terlebih dulu asset atau _Source Code_ bot WhatsApp, kalian bisa cari di Github atau juga bisa download melalui link yang sudah saya sediakan [**Download WhatsApp Bot**](https://github.com/4ndrexyz/andrexyz-bot)
+Langkah awal yang harus kita lakukan adalah mendownload terlebih dulu asset atau _Source Code_ bot WhatsApp, kalian bisa cari di Github atau juga bisa download melalui link yang sudah saya sediakan [**Download WhatsApp Bot**](https://github.com/4ndrexyz/KatoBot-v1)
 
 ## Github
 
 Setelah file tadi terdownload, langkah selanjutnya adalah login ke akun [Github](https://github.com) kalian lalu upload file tadi ke _Repository_ kalian.
 
-![Github Repository Preview!](https://i.postimg.cc/MK9NjR7d/Repositoryy.png "Github Repository Preview")
+![Github Repository Preview!](https://i.postimg.cc/tT2FBrwX/reepoo.jpg "Github Repository Preview")
 
 Jika file tadi sudah terupload ke _Repsitory_ Github kalian, langkah selanjutnya adalah mengganti nama _Repository_ sesuai dengan keinginan kalian, untuk mengganti nama _Repository_ kalian tinggal pergi ke `Settings > General > Repository Name`
 
 ![Rename Git!](https://i.postimg.cc/MG1cFscC/rename.jpg "Rename Repository")
 
-jika sudah klik "Rename", next kita akan masuk ke langkah selanjutnya, yaitu Konfigurasi dan _Deployment_ menggunakan Heroku.
+jika sudah klik "Rename", selanjutnya kita akan masuk ke langkah **Konfigurasi Heroku**
 
 ## Heroku & Heroku CLI
 
@@ -52,4 +52,7 @@ Setelah itu kita akan disuruh untuk memasukkan **_Name_, _Region_, dan _Pipeline
 > Untuk nama aplikasi hanya boleh berisikan _lower-case_ saja (huruf kecil)
 
 ![Nama Aplikasi!](https://i.postimg.cc/Gh4xSQqK/name-app.jpg "Nama Aplikasi Heroku")
+
+> Note: 
+> Pastikan nama Aplikasi sesuai dengan nama Repository kalian. 
 
