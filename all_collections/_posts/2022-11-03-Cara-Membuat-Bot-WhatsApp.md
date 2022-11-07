@@ -31,11 +31,13 @@ Setelah file tadi terdownload, langkah selanjutnya adalah login ke akun [Github]
 
 ![Github Repository Preview!](https://i.postimg.cc/MK9NjR7d/Repositoryy.png "Github Repository Preview")
 
-Jika file tadi sudah terupload ke _Repsitory_ Github kalian, kita akan masuk ke langkah selanjutnya, yaitu Konfigurasi dan _Deployment_ menggunakan Heroku.
+Jika file tadi sudah terupload ke _Repsitory_ Github kalian, langkah selanjutnya adalah mengganti nama _Repository_ sesuai dengan keinginan kalian, untuk mengganti nama _Repository_ kalian tinggal pergi ke `_Settings_ > _General_ > _Repository Name_`
+
+![Rename Git!](https://i.postimg.cc/MG1cFscC/rename.jpg "Rename Repository")
+
+jika sudah klik "Rename", next kita akan masuk ke langkah selanjutnya, yaitu Konfigurasi dan _Deployment_ menggunakan Heroku.
 
 ## Heroku & Heroku CLI
-
-Okee, selanjutnya kita akan masuk ke bagian konfigurasi dan _Deployment_ ke website Heroku.
 
 Pertama-tama kunjungi website resmi Heroku terlebih dahulu yaitu [https://www.heroku.com/](https://www.heroku.com/) lalu masuk menggunakan email aktif kalian.
 
@@ -43,10 +45,11 @@ Pertama-tama kunjungi website resmi Heroku terlebih dahulu yaitu [https://www.he
 
 Setelah kita berhasil masuk, kita akan diarahkan ke laman Dashboard Heroku, dan klik tombol **Create New App**, untuk membuat Aplikasi baru.
 
-![Create New App!](https://i.postimg.cc/kG2Khz51/create-app.jpg "Create New App")
+![Create New App!](https://i.postimg.cc/bNVFZrFC/create-app.jpg "Create New App")
 
 Setelah itu kita akan disuruh untuk memasukkan **_Name_, _Region_, dan _Pipeline_**, disini kita hanya mengisikan Nama Aplikasinya saja, sebagai contoh saya menggunakan nama **"andrexyz-bot"**
 
 > Untuk nama aplikasi hanya boleh berisikan _lower-case_ saja (huruf kecil)
 
-![Nama Aplikasi!](https://i.postimg.cc/c6qh70cM/name-app.jpg "Nama Aplikasi Heroku")
+![Nama Aplikasi!](https://i.postimg.cc/Gh4xSQqK/name-app.jpg "Nama Aplikasi Heroku")
+
