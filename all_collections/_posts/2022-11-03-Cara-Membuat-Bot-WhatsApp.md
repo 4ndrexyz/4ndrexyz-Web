@@ -48,7 +48,6 @@ Setelah kita berhasil masuk, kita akan diarahkan ke laman Dashboard Heroku, dan 
 Setelah itu kita akan disuruh untuk memasukkan **_Name_, _Region_, dan _Pipeline_**, disini kita hanya mengisikan Nama Aplikasinya saja, sebagai contoh saya menggunakan nama **"andrexyz-bot"**
 
 > Note:
-> 
 > Pastikan nama Aplikasi sesuai dengan nama Repository kalian. 
 > Untuk nama aplikasi hanya boleh berisikan _lower-case_ saja (huruf kecil)
 
