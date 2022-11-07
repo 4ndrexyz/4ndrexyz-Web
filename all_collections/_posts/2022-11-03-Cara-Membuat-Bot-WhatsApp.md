@@ -31,7 +31,7 @@ Setelah file tadi terdownload, langkah selanjutnya adalah login ke akun [Github]
 
 ![Github Repository Preview!](https://i.postimg.cc/MK9NjR7d/Repositoryy.png "Github Repository Preview")
 
-Jika file tadi sudah terupload ke _Repsitory_ Github kalian, langkah selanjutnya adalah mengganti nama _Repository_ sesuai dengan keinginan kalian, untuk mengganti nama _Repository_ kalian tinggal pergi ke `_Settings_ > _General_ > _Repository Name_`
+Jika file tadi sudah terupload ke _Repsitory_ Github kalian, langkah selanjutnya adalah mengganti nama _Repository_ sesuai dengan keinginan kalian, untuk mengganti nama _Repository_ kalian tinggal pergi ke `Settings > General > Repository Name`
 
 ![Rename Git!](https://i.postimg.cc/MG1cFscC/rename.jpg "Rename Repository")
 
