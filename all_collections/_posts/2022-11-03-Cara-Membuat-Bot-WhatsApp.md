@@ -29,13 +29,11 @@ Langkah awal yang harus kita lakukan adalah mendownload terlebih dulu asset atau
 
 Setelah file tadi terdownload, langkah selanjutnya adalah login ke akun [Github](https://github.com) kalian lalu upload file tadi ke _Repository_ kalian.
 
-![Github Repository Preview!](https://i.postimg.cc/tT2FBrwX/reepoo.jpg "Github Repository Preview")
+![Github Repository Preview!](https://i.postimg.cc/PqgzHbPx/repository.png "Github Repository Preview")
 
-Jika file tadi sudah terupload ke _Repsitory_ Github kalian, langkah selanjutnya adalah mengganti nama _Repository_ sesuai dengan keinginan kalian, untuk mengganti nama _Repository_ kalian tinggal pergi ke `Settings > General > Repository Name`
+Jika file tadi sudah terupload ke _Repsitory_ Github kalian, langkah selanjutnya adalah mengganti nama _Repository_ sesuai dengan keinginan kalian, untuk mengganti nama _Repository_ kalian tinggal pergi ke `Settings > General > Repository Name` lalu klik "Rename"
 
 ![Rename Git!](https://i.postimg.cc/MG1cFscC/rename.jpg "Rename Repository")
-
-jika sudah klik "Rename", selanjutnya kita akan masuk ke langkah **Konfigurasi Heroku**
 
 ## Heroku & Heroku CLI
 
