@@ -23,7 +23,7 @@ Oleh karena itu kita akan menggunakan Heroku sebagai tempat hosting bot kita nan
 
 ## Download _Source Code_
 
-Langkah awal yang harus kita lakukan adalah mendownload terlebih dulu asset atau _Source Code_ bot WhatsApp, kalian bisa cari di Github atau juga bisa download melalui link yang sudah saya sediakan [**Download WhatsApp Bot**](https://github.com/4ndrexyz/KatoBot-v1)
+Langkah awal yang harus kita lakukan adalah mendownload terlebih dulu asset atau _Source Code_ bot WhatsApp, kalian bisa cari di Github atau juga bisa download melalui link yang sudah saya sediakan <a href="https://github.com/4ndrexyz/KatoBot-v1" target="_blank">Download WhatsApp Bot</a> 
 
 ## Github
 
